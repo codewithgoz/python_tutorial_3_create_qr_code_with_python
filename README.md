@@ -9,9 +9,9 @@ En este repositorio encontrarás 3 scripts:
 
 * youtube_python_3-1.py -> Script para crear un código qr
 * youtube_python_3-2.py -> Script para crear muchos códigos qr a partir de una lista
-* youtube_python_1-3.py -> Script para crear distintos tipos de códigos qr
+* youtube_python_3-3.py -> Script para crear distintos tipos de códigos qr
 
-Puedes utilizar éstos scripts para tu uso personal o comercial.
+Puedes utilizar éstos scripts para tu uso personal o comercial
 
 <p align="right">(<a href="#top">Subir</a>)</p>
 
